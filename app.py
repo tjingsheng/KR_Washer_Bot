@@ -81,7 +81,6 @@ def command_received(chat_id, txt):
         send_duration_inlinebutton(chat_id)
     elif txt == '/reset':
         reset_duration(chat_id)
-        send_message(chat_id, TXT_RESET)
     else:
         send_message(chat_id,TXT_INVALID_COMMAND)
     
