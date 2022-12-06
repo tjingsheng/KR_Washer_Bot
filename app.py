@@ -98,5 +98,5 @@ def main():
 
 
 if __name__ == '__main__':
-    app.run(debug=True) # Set false before production
+    app.run(debug=False) # Set false before production
     app.run(Threaded=True)
