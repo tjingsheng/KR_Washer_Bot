@@ -1,4 +1,4 @@
-TOKEN = '5922185152:AAEz5RbKXiR7bHrLH55lvCyB2fe5up8YkFs'
+TOKEN = '5922185152:AAEz5RbKXiR7bHrLH55lvCyB2fe5up*****'
 BOT_NAME = 'KR Washer Bot'
 TIMER_FILE_NAME = 'timer_database.txt'
 DURATION_FILE_NAME = 'duration_database.txt'
