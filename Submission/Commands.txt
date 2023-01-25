@@ -1,0 +1,58 @@
+about - Tell me more about this Bot
+wash - I have started a wash cycle
+dry - I have started a drying cycle
+status - Check the Washers' and Dryers' statuses
+
+{"update_id": 294126600, 
+ "message": {"message_id": 296, 
+             "from": {"id": 403245603,
+                      "is_bot": False,
+                      "first_name": "Jing Sheng.",
+                      "username": "Jsh3ng",
+                      "language_code": "en"}, 
+              "chat": {"id": 403245603,
+                       "first_name": "Jing Sheng.",
+                       "username": "Jsh3ng",
+                       "type": "private"},
+              "date": 1670244788, "text": "no"}
+}
+
+{'update_id': 294126602,
+ 'callback_query': {'id': '1731926678606304990',
+                    'from': {'id': 403245603,
+                             'is_bot': False,
+                             'first_name': 'Jing Sheng.',
+                             'username': 'Jsh3ng',
+                             'language_code': 'en'},
+                    'message': {'message_id': 302,
+                                'from': {'id': 5632461859,
+                                         'is_bot': True,
+                                         'first_name': 'KR Washer Bot 2.0',
+                                         'username': 'krwashertesting_bot'}, 
+                                'chat': {'id': 403245603,
+                                         'first_name': 'Jing Sheng.',
+                                         'username': 'Jsh3ng',
+                                         'type': 'private'},
+                                         'date': 1670244799,
+                                         'text': 'Select the Washer',
+                                         'reply_markup': {'inline_keyboard': [[{'text': 'Washer A', 'callback_data': 'ic_wash_A'}, {'text': 'Washer B', 'callback_data': 'ic_wash_B'}, {'text': 'Washer C', 'callback_data': 'ic_wash_C'}]]}
+                                },
+                    'chat_instance': '-1655101805163020270', 
+                    'data': 'ic_wash_A'
+                    }
+}
+ 
+ 
+ {"update_id": 294126600, 
+ "message": {"message_id": 296, 
+             "from": {"id": 403245603,
+                      "is_bot": False,
+                      "first_name": "Jing Sheng.",
+                      "username": "Jsh3ng",
+                      "language_code": "en"}, 
+              "chat": {"id": 403245603,
+                       "first_name": "Jing Sheng.",
+                       "username": "Jsh3ng",
+                       "type": "private"},
+              "date": 1670244788, "text": "no"}
+}
